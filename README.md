@@ -1,4 +1,7 @@
-### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vue,nuxt,tailwind,bootstrap,docker)](https://skillicons.dev)
+
+
+
 
 <!--
 **kicaj/kicaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
