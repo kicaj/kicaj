@@ -11,16 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+          template: "templates/README.md.template"
+          writeTo: "README-test.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@e348103e9026cc0eee72ae06630dbe30c8bf7a79
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update generated README"
+          commit_message: "Update generated README.md"
           branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
