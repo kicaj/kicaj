@@ -2,7 +2,7 @@
 
 #### 🚀 I've contributed to
 
-- [nuxt/ui](https://github.com/nuxt/ui)
+- [nuxt/ui](https://github.com/nuxt/ui/commits/v3/?author=kicaj)
 - [laravel/docs](https://github.com/laravel/docs)
 - [cakephp/cakephp](https://github.com/cakephp/cakephp)
 - [tabler/tabler](https://github.com/tabler/tabler)
