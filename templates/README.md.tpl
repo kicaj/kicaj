@@ -1,5 +1,8 @@
 ### test
 
-{{range recentPullRequests 3}}
-- [{{.Repo.Name}}: {{.Title}}]({{.URL}}) ({{.State}}): {{.Repo.Description}} ({{humanize .CreatedAt}})
+{{range recentRepos 10}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}})
+Stars: {{.Stargazers}}
 {{end}}
