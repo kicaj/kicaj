@@ -2,11 +2,10 @@
 
 #### 🚀 I've contributed to
 {{range recentContributions 20}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
-
 - [{{.Repo.Name}}]({{.Repo.URL}}) {{humanize .OccurredAt}}
-
 {{end}}
+
+#### 👨‍💻 I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
