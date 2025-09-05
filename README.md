@@ -1,6 +1,15 @@
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vue,nuxt,tailwind,docker)](https://skillicons.dev)
+# Hi, I’m Radek 👋  
 
-#### 🚀 I've contributed to
+**Full-Stack Developer / Tech Lead | Laravel + Nuxt | API & GCP enthusiast**  
+
+🚀 I build scalable APIs with a focus on **clean architecture and performance**.  
+💼 25+ years of experience in **PHP, Laravel, JavaScript, Vue, Nuxt, Tailwind, MySQL, Docker, Stripe, RabbitMQ, Google Cloud Platform**.  
+🔍 Open to **remote contracts & full-time opportunities in Europe**.  
+
+### 🛠 Tech stack
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vue,nuxt,tailwind,docker,gcp)](https://skillicons.dev)
+
+### 🚀 I've contributed to
 
 - [nuxt/ui](https://github.com/nuxt/ui)
 - [nuxt/scripts](https://github.com/nuxt/scripts)
