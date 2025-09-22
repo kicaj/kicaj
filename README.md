@@ -23,3 +23,4 @@
 - [digitalocean/doctl](https://github.com/digitalocean/doctl)
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api)
 - [coreos/fedora-coreos-docs](https://github.com/coreos/fedora-coreos-docs)
+- [typesense/typesene](https://github.com/typesense/typesense)
