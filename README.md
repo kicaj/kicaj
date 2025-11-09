@@ -3,7 +3,8 @@
 **Full-Stack Developer / Tech Lead | Laravel + Nuxt | API & GCP enthusiast**  
 
 🚀 I build scalable APIs with a focus on **clean architecture and performance**.  
-💼 25+ years of experience in **PHP, Laravel, JavaScript, Vue, Nuxt, Tailwind, MySQL, Docker, Stripe, RabbitMQ, Google Cloud**.  
+💼 25+ years of experience in IT  
+**PHP, Laravel, JavaScript, Vue, Nuxt, Tailwind, MySQL, Docker, Stripe, RabbitMQ, Google Cloud**.  
 🔍 Open to **remote contracts & full-time opportunities in Europe**.  
 
 ### 🛠 Tech stack
